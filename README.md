@@ -9,6 +9,6 @@ Help an organization to improve employee performance and improve employee retent
 
 • Created an intuitive interface for easy navigation and decision-making.
 
-Skills: Microsoft Power BI · Microsoft Excel
+Skills: Microsoft Power BI, Microsoft Excel
 
 ![Screenshot 2024-09-30 204203](https://github.com/user-attachments/assets/985bf10f-e1c8-4391-9250-c675359509b5)
