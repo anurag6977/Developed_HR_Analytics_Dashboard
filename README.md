@@ -1,4 +1,4 @@
-# Developed_HR_Analytics_Dashboard
+# HR_Analytics_Dashboard
 Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating HR Analytics dashboard
 
 • Tracked key HR metrics and provided critical insights.
